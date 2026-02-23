@@ -1,0 +1,11 @@
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\bin\Debug\net10.0\QuantityMeasurementApp.deps.json
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\bin\Debug\net10.0\QuantityMeasurementApp.dll
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\bin\Debug\net10.0\QuantityMeasurementApp.pdb
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\QuantityMeasurementApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\QuantityMeasurementApp.AssemblyInfoInputs.cache
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\QuantityMeasurementApp.AssemblyInfo.cs
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\QuantityMeasurementApp.csproj.CoreCompileInputs.cache
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\QuantityMeasurementApp.dll
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\refint\QuantityMeasurementApp.dll
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\QuantityMeasurementApp.pdb
+E:\QuantityMeasurementApp\UC-3\QuantityMeasurementApp\obj\Debug\net10.0\ref\QuantityMeasurementApp.dll
