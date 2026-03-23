@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>QuantityMeasurementApp</RootNamespace>
+    <AssemblyName>QuantityMeasurementApp</AssemblyName>
+    <StartupObject>QuantityMeasurementApp.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- Copy appsettings.json to output so DatabaseConfig can find it -->
+    <None Update="..\appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>appsettings.json</Link>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuantityMeasurementModelLayer\QuantityMeasurementModelLayer.csproj" />
+    <ProjectReference Include="..\QuantityMeasurementbusinessLayer\QuantityMeasurementbusinessLayer.csproj" />
+    <ProjectReference Include="..\QuantityMeasurementRepositoryLayer\QuantityMeasurementRepositoryLayer.csproj" />
+  </ItemGroup>
+</Project>
