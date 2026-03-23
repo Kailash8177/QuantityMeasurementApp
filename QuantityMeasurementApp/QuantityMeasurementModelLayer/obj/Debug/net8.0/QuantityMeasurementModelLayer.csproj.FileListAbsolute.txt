@@ -1,0 +1,11 @@
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.deps.json
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.dll
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.AssemblyInfo.cs
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.dll
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\refint\QuantityMeasurementModelLayer.dll
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+C:\Users\hp\Downloads\UC15Solution (2)\UC15Solution\QuantityMeasurementModelLayer\obj\Debug\net8.0\ref\QuantityMeasurementModelLayer.dll

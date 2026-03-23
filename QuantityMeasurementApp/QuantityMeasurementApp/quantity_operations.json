@@ -1,0 +1,20 @@
+﻿[
+  {
+    "Id": 1,
+    "OperationType": "ADD",
+    "CreatedAt": "2026-03-19T06:54:19Z",
+    "IsComparison": false,
+    "ComparisonResult": false,
+    "HasError": false,
+    "ErrorMessage": null,
+    "ResultValue": 12000,
+    "ResultUnit": "GRAM",
+    "Operand1Value": 10,
+    "Operand1Unit": "KILOGRAM",
+    "Operand1Category": "Weight`",
+    "HasOperand2": true,
+    "Operand2Value": 2000,
+    "Operand2Unit": "GRAM",
+    "Operand2Category": "Weight"
+  }
+]
