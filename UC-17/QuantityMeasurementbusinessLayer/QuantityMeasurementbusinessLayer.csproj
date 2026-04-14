@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>QuantityMeasurementbusinessLayer</RootNamespace>
+    <AssemblyName>QuantityMeasurementbusinessLayer</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuantityMeasurementModelLayer\QuantityMeasurementModelLayer.csproj" />
+    <ProjectReference Include="..\QuantityMeasurementRepositoryLayer\QuantityMeasurementRepositoryLayer.csproj" />
+  </ItemGroup>
+</Project>
