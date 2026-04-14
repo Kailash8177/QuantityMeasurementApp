@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>QuantityMeasurementApi</name>
+    </assembly>
+    <members>
+        <member name="M:QuantityMeasurementApi.Controllers.AdminController.GetAllUsers">
+            <summary>Get all registered users (Admin only)</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AdminController.GetStatistics">
+            <summary>Get user statistics (Admin only)</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AdminController.UpdateUserRole(System.Int64,QuantityMeasurementModelLayer.DTOs.UpdateRoleRequestDTO)">
+            <summary>Update a user's role (Admin only)</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AdminController.DeactivateUser(System.Int64)">
+            <summary>Deactivate a user account (Admin only)</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AdminController.ActivateUser(System.Int64)">
+            <summary>Reactivate a user account (Admin only)</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AuthController.Register(QuantityMeasurementModelLayer.DTOs.RegisterRequestDTO)">
+            <summary>Register a new user account</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AuthController.Login(QuantityMeasurementModelLayer.DTOs.LoginRequestDTO)">
+            <summary>Login with username and password</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AuthController.RefreshToken(QuantityMeasurementModelLayer.DTOs.LogoutRequestDTO)">
+            <summary>Refresh access token using refresh token cookie or body</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AuthController.Logout(QuantityMeasurementModelLayer.DTOs.LogoutRequestDTO)">
+            <summary>Logout and revoke all tokens</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AuthController.GetProfile">
+            <summary>Get current user profile</summary>
+        </member>
+        <member name="M:QuantityMeasurementApi.Controllers.AuthController.GetAuthStatus">
+            <summary>Check authentication status (public)</summary>
+        </member>
+    </members>
+</doc>
