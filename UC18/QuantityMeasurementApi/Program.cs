@@ -18,7 +18,7 @@ var builder = WebApplication.CreateBuilder(args);
 // When no connection string is configured (e.g. during tests), use an in-memory SQLite DB.
 // We keep one connection open for the app's lifetime so the in-memory DB is not destroyed
 // between requests (in-memory SQLite drops the DB when all connections close).
-var sqliteCs = builder.Configuration.GetConnectionString("QuantityMeasurementDb");
+var sqliteCs = builder.Configuration.GetConnectionString("QuantityMeasurementDb")
 if (string.IsNullOrEmpty(sqliteCs))
 {
     sqliteCs = "Data Source=quantity-measurement.db";
