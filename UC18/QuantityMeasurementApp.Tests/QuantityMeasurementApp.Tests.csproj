@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <RootNamespace>QuantityMeasurementApp.Tests</RootNamespace>
+    <AssemblyName>QuantityMeasurementApp.Tests</AssemblyName>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- MSTest framework — equivalent to JUnit 4.13.2 in UC16 pom.xml -->
+    <PackageReference Include="MSTest.TestAdapter"   Version="3.4.3" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.4.3" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.10.0" />
+    <!-- Moq for mocking — equivalent to Mockito in UC16 pom.xml -->
+    <PackageReference Include="Moq" Version="4.20.70" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuantityMeasurementApp\QuantityMeasurementApp.csproj" />
+    <ProjectReference Include="..\QuantityMeasurementModelLayer\QuantityMeasurementModelLayer.csproj" />
+    <ProjectReference Include="..\QuantityMeasurementbusinessLayer\QuantityMeasurementbusinessLayer.csproj" />
+    <ProjectReference Include="..\QuantityMeasurementRepositoryLayer\QuantityMeasurementRepositoryLayer.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <!-- Copy appsettings.json for DatabaseConfig in tests -->
+    <None Update="..\appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <Link>appsettings.json</Link>
+    </None>
+  </ItemGroup>
+</Project>
