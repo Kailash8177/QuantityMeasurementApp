@@ -128,7 +128,7 @@ var allOrigins = allowedOrigins.Concat(defaultOrigins).Distinct().ToArray();
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
-        policy.WithOrigins(allOrigins)
+        policy.SetIsOriginAllowed(origin => true)
               .AllowAnyMethod()
               .AllowAnyHeader()
               .AllowCredentials());
