@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj": {}
+    "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj": {}
   },
   "projects": {
-    "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj": {
+    "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj",
+        "projectUniqueName": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj",
         "projectName": "QuantityMeasurementModelLayer",
-        "projectPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj",
+        "projectPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\obj\\",
+        "outputPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj": {
+    "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj",
+        "projectUniqueName": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj",
         "projectName": "QuantityMeasurementRepositoryLayer",
-        "projectPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj",
+        "projectPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\obj\\",
+        "outputPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj": {
-                "projectPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj"
+              "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj": {
+                "projectPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj"
               }
             }
           }

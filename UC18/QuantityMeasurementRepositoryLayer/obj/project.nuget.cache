@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QfjJ+C+mIjI=",
+  "dgSpecHash": "NllymBsXROA=",
   "success": true,
-  "projectFilePath": "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj",
+  "projectFilePath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",

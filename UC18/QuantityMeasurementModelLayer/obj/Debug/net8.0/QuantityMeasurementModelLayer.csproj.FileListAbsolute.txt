@@ -20,3 +20,15 @@ E:\UC18 - Copy (2)\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasur
 E:\UC18 - Copy (2)\QuantityMeasurementModelLayer\obj\Debug\net8.0\refint\QuantityMeasurementModelLayer.dll
 E:\UC18 - Copy (2)\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.pdb
 E:\UC18 - Copy (2)\QuantityMeasurementModelLayer\obj\Debug\net8.0\ref\QuantityMeasurementModelLayer.dll
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.deps.json
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.dll
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.AssemblyInfoInputs.cache
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.AssemblyInfo.cs
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.csproj.CoreCompileInputs.cache
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.sourcelink.json
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.dll
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\refint\QuantityMeasurementModelLayer.dll
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+C:\QuantityMesuremnetApp\UC18\QuantityMeasurementModelLayer\obj\Debug\net8.0\ref\QuantityMeasurementModelLayer.dll
