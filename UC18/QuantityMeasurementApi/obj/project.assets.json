@@ -3012,11 +3012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\UC18 - Copy (2)\\QuantityMeasurementApi\\QuantityMeasurementApi.csproj",
+      "projectUniqueName": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementApi\\QuantityMeasurementApi.csproj",
       "projectName": "QuantityMeasurementApi",
-      "projectPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementApi\\QuantityMeasurementApi.csproj",
+      "projectPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementApi\\QuantityMeasurementApi.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementApi\\obj\\",
+      "outputPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3038,14 +3038,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\UC18 - Copy (2)\\QuantityMeasurementbusinessLayer\\QuantityMeasurementbusinessLayer.csproj": {
-              "projectPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementbusinessLayer\\QuantityMeasurementbusinessLayer.csproj"
+            "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementbusinessLayer\\QuantityMeasurementbusinessLayer.csproj": {
+              "projectPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementbusinessLayer\\QuantityMeasurementbusinessLayer.csproj"
             },
-            "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj": {
-              "projectPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj"
+            "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj": {
+              "projectPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementModelLayer\\QuantityMeasurementModelLayer.csproj"
             },
-            "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj": {
-              "projectPath": "E:\\UC18 - Copy (2)\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj"
+            "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj": {
+              "projectPath": "C:\\QuantityMesuremnetApp\\UC18\\QuantityMeasurementRepositoryLayer\\QuantityMeasurementRepositoryLayer.csproj"
             }
           }
         }
@@ -3113,13 +3113,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

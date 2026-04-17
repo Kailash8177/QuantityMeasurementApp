@@ -19,13 +19,9 @@ var builder = WebApplication.CreateBuilder(args);
 // We keep one connection open for the app's lifetime so the in-memory DB is not destroyed
 // between requests (in-memory SQLite drops the DB when all connections close).
 var sqliteCs = builder.Configuration.GetConnectionString("QuantityMeasurementDb");
-SqliteConnection? keepAliveConn = null;
-if (sqliteCs == null)
+if (string.IsNullOrEmpty(sqliteCs))
 {
-    var dbName = Guid.NewGuid().ToString("N");
-    sqliteCs   = $"Data Source={dbName};Mode=Memory;Cache=Shared";
-    keepAliveConn = new SqliteConnection(sqliteCs);
-    keepAliveConn.Open();   // stays open until the process exits
+    sqliteCs = "Data Source=quantity-measurement.db";
 }
 
 builder.Services.AddDbContext<QuantityMeasurementDbContext>(options =>
@@ -118,16 +114,21 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 // ── 6. CORS ──────────────────────────────────────────────────────
+var allowedOrigins = builder.Configuration.GetSection("AllowedOrigins").Get<string[]>() ?? Array.Empty<string>();
+var defaultOrigins = new[] {
+    "http://localhost:3000", "http://localhost:3001",
+    "http://127.0.0.1:5500", "http://localhost:5500",
+    "http://127.0.0.1:5501", "http://localhost:5501",
+    "http://127.0.0.1:8080", "http://localhost:8080",
+    "http://127.0.0.1:8000", "http://localhost:8000",
+    "http://127.0.0.1:4200", "http://localhost:4200"
+};
+var allOrigins = allowedOrigins.Concat(defaultOrigins).Distinct().ToArray();
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
-        policy.WithOrigins(
-                "http://localhost:3000",  "http://localhost:3001",
-                "http://127.0.0.1:5500", "http://localhost:5500",
-                "http://127.0.0.1:5501", "http://localhost:5501",
-                "http://127.0.0.1:8080", "http://localhost:8080",
-                "http://127.0.0.1:8000", "http://localhost:8000",
-                "http://127.0.0.1:4200", "http://localhost:4200")
+        policy.WithOrigins(allOrigins)
               .AllowAnyMethod()
               .AllowAnyHeader()
               .AllowCredentials());
@@ -143,14 +144,19 @@ using (var scope = app.Services.CreateScope())
     db.Database.EnsureCreated();
 }
 
+app.UseHttpsRedirection();
+
 app.UseMiddleware<GlobalExceptionHandler>();
 
-app.UseSwagger();
-app.UseSwaggerUI(c =>
+if (app.Environment.IsDevelopment())
 {
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Quantity Measurement API v1");
-    c.RoutePrefix = "swagger";
-});
+    app.UseSwagger();
+    app.UseSwaggerUI(c =>
+    {
+        c.SwaggerEndpoint("/swagger/v1/swagger.json", "Quantity Measurement API v1");
+        c.RoutePrefix = "swagger";
+    });
+}
 
 app.UseCors("AllowFrontend");
 app.UseAuthentication();
@@ -158,7 +164,5 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
-keepAliveConn?.Dispose();
 
 public partial class Program { }
