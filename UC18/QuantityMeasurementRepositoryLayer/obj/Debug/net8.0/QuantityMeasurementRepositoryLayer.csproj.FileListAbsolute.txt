@@ -1,0 +1,30 @@
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.deps.json
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.pdb
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.AssemblyInfo.cs
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\Quantity.A21B307C.Up2Date
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\refint\QuantityMeasurementRepositoryLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.pdb
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\ref\QuantityMeasurementRepositoryLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.csproj.AssemblyReference.cache
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.AssemblyInfoInputs.cache
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.AssemblyInfo.cs
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.csproj.CoreCompileInputs.cache
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\refint\QuantityMeasurementRepositoryLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\QuantityMeasurementRepositoryLayer.pdb
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.deps.json
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.pdb
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\Quantity.A21B307C.Up2Date
+E:\UC18 - Copy (2)\QuantityMeasurementRepositoryLayer\obj\Debug\net8.0\ref\QuantityMeasurementRepositoryLayer.dll

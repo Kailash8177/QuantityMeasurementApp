@@ -1,0 +1,34 @@
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementbusinessLayer.deps.json
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementbusinessLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementbusinessLayer.pdb
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.pdb
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.AssemblyInfo.cs
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\Quantity.C6D35FED.Up2Date
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\refint\QuantityMeasurementbusinessLayer.dll
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.pdb
+C:\Users\hp\Downloads\UC18 (3)\UC18\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\ref\QuantityMeasurementbusinessLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\refint\QuantityMeasurementbusinessLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.pdb
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementbusinessLayer.deps.json
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementbusinessLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementbusinessLayer.pdb
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.dll
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementModelLayer.pdb
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\bin\Debug\net8.0\QuantityMeasurementRepositoryLayer.pdb
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.csproj.AssemblyReference.cache
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.AssemblyInfoInputs.cache
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.AssemblyInfo.cs
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\QuantityMeasurementbusinessLayer.csproj.CoreCompileInputs.cache
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\Quantity.C6D35FED.Up2Date
+E:\UC18 - Copy (2)\QuantityMeasurementbusinessLayer\obj\Debug\net8.0\ref\QuantityMeasurementbusinessLayer.dll
